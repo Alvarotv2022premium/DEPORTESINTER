@@ -185,42 +185,51 @@ http://superbits.tv:80/cCqeC084/hJQjh3pJ/48721
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/223517
 
 
-
-
-
 #EXTINF:-1,ANIMAL PLANET 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10272
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10272
 
  #EXTINF:-1, DISCOVERY CHANNEL 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10278 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10278 
 
 #EXTINF:-1, DISCOVERY CIVILIZATION 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10283 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10283 
 
 #EXTINF:-1, DISCOVERY H&H
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10284 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10284 
 
 #EXTINF:-1, DISCOVERY SCIENCE 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10290 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10290 
 
 #EXTINF:-1, DISCOVERY TURBO 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10295 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10295 
 
 #EXTINF:-1,DISCOVERY WORLD 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10298 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10298 
 
-#EXTINF:-1,CUL| DW HD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10301
+#EXTINF:-1,DW 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10301
 
 #EXTINF:-1, H2 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10306 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10306 
 
 #EXTINF:-1, HISTORY CHANNEL 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10307 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10307 
 
 #EXTINF:-1, INVESTIGATION DISCOVERY
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10317  
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10317  
 
 #EXTINF:-1, NAT GEO 
-#EXTGRP:CANALES CULTURA http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10319 
+#EXTGRP:CANALES CULTURA 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10319 
 
  
