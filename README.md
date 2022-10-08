@@ -209,9 +209,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10295
 #EXTGRP:CANALES CULTURA 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10298 
 
-#EXTINF:-1,DW 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10301
-
 #EXTINF:-1, H2 
 #EXTGRP:CANALES CULTURA 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10306 
