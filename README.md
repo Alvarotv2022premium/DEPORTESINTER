@@ -195,11 +195,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10278
 
 #EXTINF:-1, DISCOVERY CIVILIZATION 
 #EXTGRP:CANALES CULTURA 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10283 
-
-#EXTINF:-1, DISCOVERY H&H
-#EXTGRP:CANALES CULTURA 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10284 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/10283  
 
 #EXTINF:-1, DISCOVERY SCIENCE 
 #EXTGRP:CANALES CULTURA 
