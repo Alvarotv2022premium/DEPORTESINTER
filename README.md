@@ -174,7 +174,7 @@ http://superbits.tv:80/cCqeC084/hJQjh3pJ/39128
 
 #EXTINF:-1, GOLTV
 #EXTGRP:CANALES DEPORTES
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/35777
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
 #EXTINF:-1, EUROSPORT 2
 #EXTGRP:CANALES DEPORTES
@@ -182,7 +182,7 @@ http://superbits.tv:80/cCqeC084/hJQjh3pJ/48721
 
 #EXTINF:-1, TUDN
 #EXTGRP:CANALES DEPORTES
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/223517
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
 
 #EXTINF:-1,ANIMAL PLANET 
@@ -245,3 +245,25 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251390
 #EXTINF:-1, NTN24
 #EXTGRP:CANALES LATINO
 http://gameplay.p2sweb.me:80/3091894/4952970/251384
+
+EXTINF:-1, TELEMUNDO
+#EXTGRP:CANALES LATINO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+
+EXTINF:-1, UNIVERSO
+#EXTGRP:CANALES LATINO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+
+EXTINF:-1, UNIMAX
+#EXTGRP:CANALES LATINO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+
+EXTINF:-1, UNIVISION
+#EXTGRP:CANALES LATINO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+
+
+
+
+
+
