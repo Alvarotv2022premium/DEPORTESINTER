@@ -31,4 +31,10 @@ http://flixgran.xyz:8080/888888/888888/414986
 #EXTINF:-1,Portugal Sport TV 4 HD 
 http://flixgran.xyz:8080/888888/888888/414767 
 
+#EXTINF:-1,DEPORTES EUR  UFC HD  
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38143 
+
+#EXTINF:-1,DEPORTES EUR UFC Figh Pass HD  
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38144 
+
 
