@@ -39,10 +39,17 @@ http://gameplay.p2sweb.me:80/3091894/4952970/250110
 #EXTINF:-1,Portugal Sport TV 4 
 http://gameplay.p2sweb.me:80/3091894/4952970/250111 
 
-#EXTINF:-1,DEPORTES EUR  UFC   
+#EXTINF:-1, UFC   
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38143 
 
-#EXTINF:-1,DEPORTES EUR UFC Figh Pass  
+#EXTINF:-1, UFC Figh Pass  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38144 
+
+#EXTINF:-1, MLB BASEBALL
+http://gameplay.p2sweb.me:80/3091894/4952970/248113
+
+#EXTINF:-1, NBA BASKET
+http://gameplay.p2sweb.me:80/3091894/4952970/232263
+
 
 
