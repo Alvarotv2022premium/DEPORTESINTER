@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,Br STAR PLUS 1
+http://gameplay.p2sweb.me:80/3091894/4952970/265130
+
+#EXTINF:-1,Br STAR PLUS 2
+http://gameplay.p2sweb.me:80/3091894/4952970/265131
+
+#EXTINF:-1,Br STAR PLUS 3
+http://gameplay.p2sweb.me:80/3091894/4952970/204033
 
 #EXTINF:-1,Brasil Premiere 1 HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
