@@ -36,9 +36,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/250101
 
 #EXTINF:-1,Portugal Eleven Sports 2 
 http://gameplay.p2sweb.me:80/3091894/4952970/250102 
-
-#EXTINF:-1,Portugal  Sport TVplus 
-http://flixgran.xyz:8080/888888/888888/414758 
+ 
 
 #EXTINF:-1,Portugal  Sport TV 1 
 http://gameplay.p2sweb.me:80/3091894/4952970/250108 
