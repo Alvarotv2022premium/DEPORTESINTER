@@ -28,10 +28,8 @@ http://gameplay.p2sweb.me:80/3091894/4952970/203523
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
 
 #EXTINF:-1,Brasil Premiere Clubes 
-http://flixgran.xyz:8080/888888/888888/327391 
-
-#EXTINF:-1,Brasil Premieres Clubes 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
+
 
 #EXTINF:-1,Portugal Eleven Sports 1
 http://gameplay.p2sweb.me:80/3091894/4952970/250101 
