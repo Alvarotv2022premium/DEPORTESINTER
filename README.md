@@ -13,6 +13,15 @@ http://gameplay.p2sweb.me:80/3091894/4952970/204033
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 
+#EXTINF:-1, ESPN1 EEUU
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+
+
+#EXTINF:-1, BEINSPORTS EEUU
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+
+
+
 #EXTINF:-1,
 
 
