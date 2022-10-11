@@ -9,11 +9,20 @@ http://gameplay.p2sweb.me:80/3091894/4952970/265131
 #EXTINF:-1,Br STAR PLUS 3
 http://gameplay.p2sweb.me:80/3091894/4952970/204033
 
+#EXTINF:-1, FOX DEPORTES 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+
+
+#EXTINF:-1,
+
+
 #EXTINF:-1,Brasil Premiere 1 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
 
 #EXTINF:-1,Brasil Premiere Clubes 
 http://flixgran.xyz:8080/888888/888888/327391 
+
+
 
 #EXTINF:-1,Brasil Premieres Clubes 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
