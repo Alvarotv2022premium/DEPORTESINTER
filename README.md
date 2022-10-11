@@ -20,18 +20,17 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, BEINSPORTS EEUU
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
+#EXTINF:-1, NBC ESPORTS CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
 
-
-#EXTINF:-1,
-
+#EXTINF:-1 BAND SPORTS BRASIL
+http://gameplay.p2sweb.me:80/3091894/4952970/203523
 
 #EXTINF:-1,Brasil Premiere 1 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
 
 #EXTINF:-1,Brasil Premiere Clubes 
 http://flixgran.xyz:8080/888888/888888/327391 
-
-
 
 #EXTINF:-1,Brasil Premieres Clubes 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
