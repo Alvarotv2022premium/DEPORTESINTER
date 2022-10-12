@@ -30,6 +30,8 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
 #EXTINF:-1,Brasil Premiere Clubes 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
 
+#EXTINF:-1,Brasil SPORTV1
+http://xcui.vitvabc.xyz:8880/287994019013/287994019013/16753
 
 #EXTINF:-1,Portugal Eleven Sports 1
 http://gameplay.p2sweb.me:80/3091894/4952970/250101 
