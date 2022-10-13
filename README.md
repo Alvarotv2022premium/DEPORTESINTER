@@ -61,4 +61,5 @@ http://gameplay.p2sweb.me:80/3091894/4952970/248113
 http://gameplay.p2sweb.me:80/3091894/4952970/232263
 
 
-
+#EXTINF:-1, SKY SPORT FOOTBALL
+http://soberon.us:25461//live/m0nk3yn3w/n3wm0nk3y/3940.ts
