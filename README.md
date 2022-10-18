@@ -33,40 +33,41 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958
 #EXTINF:-1,Brasil SPORTV1
 http://xcui.vitvabc.xyz:8880/287994019013/287994019013/16753
 
-#EXTINF:-1,Portugal Eleven Sports 1
-http://gameplay.p2sweb.me:80/3091894/4952970/250101 
-
-#EXTINF:-1,Portugal Eleven Sports 2 
-http://gameplay.p2sweb.me:80/3091894/4952970/250102 
- 
-
-#EXTINF:-1,Portugal  Sport TV 1 
-http://gameplay.p2sweb.me:80/3091894/4952970/250108 
-
-#EXTINF:-1,Portugal Sport TV 2 
-http://gameplay.p2sweb.me:80/3091894/4952970/250109 
-
-#EXTINF:-1,Portugal Sport TV 3 
-http://gameplay.p2sweb.me:80/3091894/4952970/250110 
- 
-
-#EXTINF:-1, UFC   
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38143 
- 
-
-#EXTINF:-1, MLB BASEBALL
-http://gameplay.p2sweb.me:80/3091894/4952970/248113
-
-#EXTINF:-1, NBA BASKET
-http://gameplay.p2sweb.me:80/3091894/4952970/232263
+#EXTM3U
 
 
-#EXTINF:-1, SKY SPORT FOOTBALL
-http://soberon.us:25461//live/m0nk3yn3w/n3wm0nk3y/3940.ts
+#EXTINF:-1,ES-CanalPlus-Liga
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1022
+#EXTINF:-1,ES-CanalPlus-Golf
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1023
+#EXTINF:-1,ES-CanalPlus-Futbol
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1024
+#EXTINF:-1,ES-CanalPlus-Deportes-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1025
+
+#EXTINF:-1,ES-CanalPlus-Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1026
 
 
-#EXTINF:-1, Bein1 Fra
-http://iptv.ultime-mgcamd.com:8000/amineTdN/itFJEN9VlJ/12
+#EXTINF:-1,UK-Liverpool-FC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/877
+
+#EXTINF:-1,SPORTSBAYAREA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+#EXTINF:-1,sportsboston
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+#EXTINF:-1,SPORTSCALIFORNIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+#EXTINF:-1,SPORTSCHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1,SPORTSNORTHWEST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+#EXTINF:-1,SPORTSPHILADELPHIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+#EXTINF:-1,SPORTSWASHINGTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
 
 
 #EXTINF:-1 ELEVEN SPORTS 01  http://gameplay.p2sweb.me:80/3091894/4952970/250101
@@ -197,14 +198,48 @@ http://gameplay.p2sweb.me:80/3091894/4952970/204495
 #EXTINF:-1 ESPN EXTRA HD opc2 http://gameplay.p2sweb.me:80/3091894/4952970/203620 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,UK-Sky-Sports-Premier-League
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/802
+#EXTINF:-1,UK-Sky-Sports-Box-Office
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/803
+#EXTINF:-1,UK-Sky-Sports-The-Open
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/804
+#EXTINF:-1,UK-Sky-Sports-Main-Event
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/805
+#EXTINF:-1,UK-Sky-Sports-Football
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/806
+#EXTINF:-1,UK-Sky-Sports-Cricket
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/807
+#EXTINF:-1,UK-Sky-Sports-Arena
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/808
+#EXTINF:-1,UK-Sky-Sports-Action
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/809
+#EXTINF:-1,UK-Sky-Sports-News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/810
+#EXTINF:-1,UK-Sky-Sports-Mix
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/811
+#EXTINF:-1,UK-Sky-Sports-F1-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/812
+#EXTINF:-1,UK-Sky-Sports-F1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/813
+#EXTINF:-1,UK-Sky-Sports-5-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/814
+#EXTINF:-1,UK-Sky-Sports-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/815
+#EXTINF:-1,UK-Sky-Sports-4-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/816
+#EXTINF:-1,UK-Sky-Sports-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/817
+#EXTINF:-1,UK-Sky-Sports-3-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/818
+#EXTINF:-1,UK-Sky-Sports-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/819
+#EXTINF:-1,UK-Sky-Sports-2-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/820
+#EXTINF:-1,UK-SkySports-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/821
+#EXTINF:-1,UK-Sky-Sports-1-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/822
+#EXTINF:-1,UK-SkySports-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/823
 
