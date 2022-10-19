@@ -6,12 +6,17 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
 #EXTINF:-1, WIN SPORTS 
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 
-#EXTINF:-1,
+#EXTINF:-1, CLARO SPORTS CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39156
 
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, DIRECTV SPORTS CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72219
 
-#EXTINF:-1,
+#EXTINF:-1, DIRECTV SPORTS. 2 CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72218
+
+#EXTINF:-1, DIRECTV SPORTS PLUS CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72217
 
 #EXTINF:-1,
 
