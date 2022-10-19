@@ -33,10 +33,15 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39154
 #EXTINF:-1, FOX SPORTS 2 CO
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39138
 
-#EXTINF:-1,
+#EXTINF:-1, TNT SPORTS CHILE
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/99116.ts
 
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, TNT SPORTS ARG
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/28585.ts
+
+#EXTINF:-1, TYC SPORTS ARG
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133823.ts
+
 #EXTINF:-1,
 
 #EXTINF:-1,
