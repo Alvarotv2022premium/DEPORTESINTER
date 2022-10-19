@@ -34,8 +34,16 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/11364
 #EXTINF:-1, SKY SPORTS PREMIER
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/37069
 
+
+#EXTINF:-1, ING BEIN SPORTS
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/94450
+
 #EXTINF:-1, FRA BEIN SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/14415
+
+
+#EXTINF:-1, FRA BEIN SPORTS 2
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/14414
 
 #EXTINF:-1, FRA CANAL PLUS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/23011
