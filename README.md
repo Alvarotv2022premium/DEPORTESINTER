@@ -54,7 +54,6 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/35476.ts
 #EXTINF:-1, GOL PERU
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/69149.ts
 
-
 #EXTINF:-1, LIGA MX MEXICO
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133902.ts
 
@@ -79,7 +78,6 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/48769.ts
 #EXTINF:-1, GOLTV ESP
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/48733.ts
 
-
 #EXTINF:-1, BRASIL CAMPEONATO 
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/46579
 
@@ -98,11 +96,7 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/9660
 #EXTINF:-1, EEUU BEIN SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39506
 
-#EXTINF:-1, NBC ESPORTS CHICAGO
-
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
-
-#EXTINF:-1 EEUU CBS SPORTS
+#EXTINF:-1, EEUU CBS SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/8245
 
 #EXTINF:-1, EEUU FOX SPORTS
@@ -114,13 +108,11 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/11364
 #EXTINF:-1, SKY SPORTS PREMIER
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/37069
 
-
 #EXTINF:-1, ING BEIN SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/94450
 
 #EXTINF:-1, FRA BEIN SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/14415
-
 
 #EXTINF:-1, FRA BEIN SPORTS 2
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/14414
@@ -134,7 +126,7 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/50829
 #EXTINF:-1, IT RAI SPORTS
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/51015
 
-#EXTINF:-1,SKY SPORTS SERIE A
+#EXTINF:-1, SKY SPORTS SERIE A
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/51126
 
 #EXTINF:-1, SKY SPORTS BUNDESLIGA
