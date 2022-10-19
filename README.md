@@ -1,16 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1, STAR PLUS1 FUT
-http://gameplay.p2sweb.me:80/3091894/4952970/265130
+#EXTINF:-1, BRASIL CAMPEONATO 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/46579
 
-#EXTINF:-1, STAR PLUS2 FUT
-http://gameplay.p2sweb.me:80/3091894/4952970/265131
+#EXTINF:-1, PORT SPORTV 1
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/68990
 
-#EXTINF:-1, STAR PLUS3 FUT
-http://gameplay.p2sweb.me:80/3091894/4952970/204033
+#EXTINF:-1, PORT SPORTV 2
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/68993
 
-#EXTINF:-1, FOX DEPORTES 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1, PORT SPORTV 3
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/68994
+
 
 #EXTINF:-1, ESPN1 EEUU
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
