@@ -42,6 +42,26 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/28585.ts
 #EXTINF:-1, TYC SPORTS ARG
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133823.ts
 
+#EXTINF:-1, ECDF ECUADOR
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72226.ts
+
+#EXTINF:-1, GOL TV PERU
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/21135.ts
+
+#EXTINF:-1, MOVISTAR SPORTS PERU
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/35476.ts
+
+#EXTINF:-1, GOL PERU
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/69149.ts
+
+
+#EXTINF:-1, LIGA MX MEXICO
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133902.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
@@ -49,6 +69,17 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133823.ts
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
+
+
 
 
 #EXTINF:-1, BRASIL CAMPEONATO 
