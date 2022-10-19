@@ -13,20 +13,22 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/68993
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/68994
 
 
-#EXTINF:-1, ESPN1 EEUU
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1, EEUU ESPN
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/9660
 
-#EXTINF:-1, BEINSPORTS EEUU
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1, EEUU BEIN SPORTS
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39506
+
 
 #EXTINF:-1, NBC ESPORTS CHICAGO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
 
-#EXTINF:-1 BAND SPORTS BRASIL
-http://gameplay.p2sweb.me:80/3091894/4952970/203523
+#EXTINF:-1 EEUU CBS SPORTS
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/8245
 
-#EXTINF:-1,Brasil Premiere 1 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
+#EXTINF:-1, EEUU FOX SPORTS
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/82541 
+
 
 #EXTINF:-1,Brasil Premiere Clubes 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
