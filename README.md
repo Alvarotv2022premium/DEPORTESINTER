@@ -30,13 +30,11 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/8245
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/82541 
 
 
-#EXTINF:-1,Brasil Premiere Clubes 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
+#EXTINF:-1, INGL PREMIER SPORTS 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/11364
 
-#EXTINF:-1,Brasil SPORTV1
-http://xcui.vitvabc.xyz:8880/287994019013/287994019013/16753
-
-#EXTM3U
+#EXTINF:-1, SKY SPORTS PREMIER
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/37069
 
 
 #EXTINF:-1,ES-CanalPlus-Liga
