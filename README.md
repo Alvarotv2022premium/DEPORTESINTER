@@ -58,6 +58,9 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/69149.ts
 #EXTINF:-1, LIGA MX MEXICO
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133902.ts
 
+#EXTINF:-1, TUDN SPORTS
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/45931.ts
+
 #EXTINF:-1, TUDN EXTRA EVENTO 1
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/133874.ts
 
