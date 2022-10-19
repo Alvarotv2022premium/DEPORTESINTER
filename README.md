@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,
+#EXTINF:-1, WIN SPORTS PLUS 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
 
-#EXTINF:-1,
+#EXTINF:-1, WIN SPORTS 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 
 #EXTINF:-1,
 
