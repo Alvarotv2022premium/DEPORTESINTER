@@ -18,15 +18,20 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72218
 #EXTINF:-1, DIRECTV SPORTS PLUS CO
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72217
 
-#EXTINF:-1,
+#EXTINF:-1, ESPN CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39147
 
-#EXTINF:-1,
+#EXTINF:-1, ESPN 2 CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39152
 
-#EXTINF:-1,
+#EXTINF:-1, ESPN 3 CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39138
 
-#EXTINF:-1,
+#EXTINF:-1, FOX SPORTS CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39154
 
-#EXTINF:-1,
+#EXTINF:-1, FOX SPORTS 2 CO
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39138
 
 #EXTINF:-1,
 
