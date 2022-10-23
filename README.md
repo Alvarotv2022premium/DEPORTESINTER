@@ -5,7 +5,7 @@ http://superbits.tv:2095/get.php?username=sSTGthk1x3&password=s6K6WC0G&type=m3u_
 
 
 #EXTINF:-1, WIN SPORTS PLUS COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044663
 
 #EXTINF:-1, WIN SPORTS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
