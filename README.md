@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, SOPORTE 24 7
+http://superbits.tv:2095/get.php?username=sSTGthk1x3&password=s6K6WC0G&type=m3u_plus
+
+
 #EXTINF:-1, WIN SPORTS PLUS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
 
